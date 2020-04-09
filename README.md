@@ -4,25 +4,25 @@ A simple Go based API backend for a Youtube clone. To be implemented as a server
 
 ## Features to be Implemented
 
-[ ] Upload videos
-[ ] Download videos
-[ ] Delete videos
-[ ] Update video content
-[ ] Authentication via email and password
-[ ] Social authentication via google, twitter, facebook
-[ ] Create Channel
-[ ] Delete Channel
-[ ] Get list of Channels
-[ ] Associate videos to user's channel
-[ ] Search functionality
-[ ] Follow and followers functionality
-[ ] Chat functionality
-[ ] Comment functionality
-[ ] Like and dislike functionality
-[ ] Save to liked videos
-[ ] Save to Favourites
-[ ] Create playlist
-[ ] Add playlist to profile
+- [ ] Upload videos
+- [ ] Download videos
+- [ ] Delete videos
+- [ ] Update video content
+- [ ] Authentication via email and password
+- [ ] Social authentication via google, twitter, facebook
+- [ ] Create Channel
+- [ ] Delete Channel
+- [ ] Get list of Channels
+- [ ] Associate videos to user's channel
+- [ ] Search functionality
+- [ ] Follow and followers functionality
+- [ ] Chat functionality
+- [ ] Comment functionality
+- [ ] Like and dislike functionality
+- [ ] Save to liked videos
+- [ ] Save to Favourites
+- [ ] Create playlist
+- [ ] Add playlist to profile
 
 ## Database Tables
 
